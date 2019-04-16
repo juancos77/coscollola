@@ -1,14 +1,14 @@
 .text-cosco {
-    color: #97c93e !important;
+    color: #dbe9b7 !important;
 }
 
 .btn-cosco {
-    background-color: #97c93e;
+    background-color: #f18c8e;
     color: white;
 }
 
 .btn-cosco:hover {
-    background-color: #82ad36;
+    background-color: #b8b2a6;
 }
 
 #main .carousel-inner img {
